@@ -1,0 +1,2 @@
+# WaZap
+Frontend for WaZap
